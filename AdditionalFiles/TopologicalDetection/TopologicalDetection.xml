@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<OnlineDevices>
+  <OnlineDevice id="0" name="plcxb1d0ed" ipAddress="192.168.10.1" macAddress="28-63-36-00-E2-6B">
+    <Mlfb>6ES7 317-2EK14-0AB0</Mlfb>
+    <Type>0x002A0101</Type>
+    <TypeName>S7-300</TypeName>
+    <OnlineModule moduleNumber="0">
+      <OnlinePorts>
+        <OnlinePort name="Port 2" portNumber="2">
+          <PortNumberInModule>2</PortNumberInModule>
+          <Description>Siemens SIMATIC S7, Ethernet Port 2, link, 100 Mbit, full duplex, autonegotiation</Description>
+          <CableLength>10</CableLength>
+          <OnlineRemotePartners>
+            <OnlineRemotePartner>
+              <Device name="hmixb110d0" ipAddress="192.168.0.3" macAddress="28-63-36-4B-F9-5E" onlineDeviceId="1" matchCriteria="Name" />
+              <Module number="0" />
+              <Port name="Port 1" numberInModule="1" />
+            </OnlineRemotePartner>
+          </OnlineRemotePartners>
+        </OnlinePort>
+        <OnlinePort name="Port 1" portNumber="1">
+          <PortNumberInModule>1</PortNumberInModule>
+          <Description>Siemens SIMATIC S7, Ethernet Port 1, no link, autonegotiation</Description>
+          <CableLength>0</CableLength>
+          <OnlineRemotePartners />
+        </OnlinePort>
+      </OnlinePorts>
+    </OnlineModule>
+  </OnlineDevice>
+  <OnlineDevice id="1" name="hmixb110d0" ipAddress="192.168.0.3" macAddress="28-63-36-4B-F9-5E">
+    <Mlfb>6AV2 124-0GC01-0AX0</Mlfb>
+    <Type>0x002A040D</Type>
+    <TypeName>SIMATIC-HMI</TypeName>
+    <OnlineModule moduleNumber="0">
+      <OnlinePorts>
+        <OnlinePort name="Port 1" portNumber="1">
+          <PortNumberInModule>1</PortNumberInModule>
+          <Description>SOC1 Port 1</Description>
+          <CableLength>9</CableLength>
+          <OnlineRemotePartners>
+            <OnlineRemotePartner>
+              <Device name="plcxb1d0ed" ipAddress="192.168.10.1" macAddress="28-63-36-00-E2-6B" onlineDeviceId="0" matchCriteria="Name" />
+              <Module number="0" />
+              <Port name="Port 2" numberInModule="2" />
+            </OnlineRemotePartner>
+          </OnlineRemotePartners>
+        </OnlinePort>
+        <OnlinePort name="Port 2" portNumber="2">
+          <PortNumberInModule>2</PortNumberInModule>
+          <Description>SOC1 Port 2</Description>
+          <CableLength>0</CableLength>
+          <OnlineRemotePartners>
+            <OnlineRemotePartner>
+              <Device name="7it-00157" ipAddress="0.0.0.0" macAddress="00-00-00-00-00-00" />
+              <Module number="0" />
+              <Port name="Port 1" numberInModule="1" />
+            </OnlineRemotePartner>
+          </OnlineRemotePartners>
+        </OnlinePort>
+      </OnlinePorts>
+    </OnlineModule>
+  </OnlineDevice>
+</OnlineDevices>
