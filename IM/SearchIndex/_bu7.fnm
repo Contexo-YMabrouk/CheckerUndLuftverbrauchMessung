@@ -1,24 +1,0 @@
-þÿÿÿ…###id###VisulizationRootBrowsableId###TargetIdAcknowledgementGroupText-###SearchableNonTechnicalFieldNamesOfDocument###ParentIds###ImmediateParentId###ReferenceFieldIdsInvalidAttempts	ValidDaysWarningDaysGenerationsMinNumPsswd
-ServerName
-PortNumberWindowsDomainNameStationNamePartnerNameNodeNameDisplayNameAcknowledgementModelAlarmLogIdEmailAddressAcknowledgedText
-ComingText	GoingTextCommonAlarmClass
-AlarmClass	AlarmText###SearchFilterIds	FunctionsPathRestartOptionsStorageMediaThresholdBehaviorAcquisitionModeLoggingCycle
-ProcessTagProcessTagTypeNameToleranceOptionJobEvent	CycleUnit	CycleTimePictureTextCommentNumber	ShortName
-LogoutTimeTitleLanguageVersion###UpdatableParentIdInterfaceMember_NameInterfaceMember_DatatypeInterfaceMember_ValueInterfaceMember_CommentNetwork titleSTL CodeNetwork commentInstance DBAuthorUser-defined IDLADFBD CodeDatatypeAddress	BackColor	GridColorBackFillStyleBorderBackColorBorderColor	EdgeStyleFlashingFont	ForeColorHorizontalAlignmentTextOrientationVerticalAlignmentFirstGradientColor
-FocusColorHorizontalPictureAlignmentMiddleGradientColorModePictureAutoSizingSecondGradientColorTextOffTextOnVerticalPictureAlignmentAdaptPicture
-AutoSizingTransparentColorAboveUpperLimitColorBelowLowerLimitColor
-DataFormatFormatPatternProcessValueUnitPropertyNameTagValueForPropertyTagPageTemplateCaptionColorCaptionFontCaptionTextHelpTextInnerBackColorOffInnerBackColorOn
-PictureOff	PictureOnSwitchOrientationCaptionGraphDirectionLayer	LineColorShowScrollbarsStatusbarBackColorStatusbarFontStatusbarFontColorToolbarAlignmentToolbarBackColorTooltipText	BeginTimeColorDataSourceXDataSourceYEndTime	FillColor	FillStyleLabel	LineStyleLineTypeLowerLimitColor
-PointColor
-PointStyle	RangeType
-SourceTypeTimeRangeBaseTrendWindowUncertainStateColorUpdateCycleXUpdateCycleYUpperLimitColorXAxisYAxisCoarseGridColorFineGridColor
-RulerColor
-RulerLayer
-RulerStyle	AlignmentScalingTypeButtonBackColorButtonBackFillStyleButtonBorderBackColorButtonBorderColorButtonEdgeStyleButtonFirstGradientColorButtonMiddleGradientColorButtonSecondGradientColorGridlineAxisGridlineColorGridlineFillColorGridlineStyle
-ScaleColorTableBackColorTableEvenRowBackColor	TableFontTableForeColorTableGridlineColorTableHeaderBackColorTableHeaderBackFillStyleTableHeaderBorderBackColorTableHeaderBorderColorTableHeaderEdgeStyleTableHeaderFirstGradientColorTableHeaderFontTableHeaderForeColorTableHeaderMiddleGradientColorTableHeaderSecondGradientColorTimeAxisModeTimeAxisSideEvenRowBackColorSelectBackColorSelectForeColorTextListAuthorizationAlarmLowerLimitColorAlarmUpperLimitColorBarBackColorBarEdgeStyleBarOrientationScalePositionSegmentColoringWarningLowerLimitColorWarningUpperLimitColorCenterColorDangerRangeColor	DialColorDialFillStyleInnerDialColorNormalRangeColorPointerColorScaleLabelColorScaleLabelFontScaleTickColor	UnitColorUnitFontUnitTextWarningRangeColorUITypeEditorBitPositionUITypeEditorTagExpressionUITypeEditorStartvalueUITypeEditorEndvalueDataTypeTagAddressPanelInfoAddressAccessModeAcquisitionTriggerModeConfirmationType
-ConnectionCodingControllerTag	JobNumberPlcName
-StartValueAcquisitionCycleAlarmSourceButtonBarStyleColumnTextAckGroupColumnTextAlarmStateColumnTextAlarmTextColumnTextClassNameColumnTextDateColumnTextDeviceColumnTextDiagnosableColumnTextNumberColumnTextTime
-FilterTextSelectionBackColorSelectionForeColorSortByTimeDirectionViewTypeRangeFromTo
-LineColor1
-LineColor2OperatableAreaColor
-VisibilityPreCodeHeaderCodeFooterFamily###ReconstitutionDataIDAssociatedCultureFieldIdAssociatedProjectVersion!AssociatedIndexDataVersionFieldId,AssociatedTechnicalFieldNamesHashCodeFieldId-AssociatedTechnicalFieldContentVersionFieldIdIndexAtomStoreMasterCommentTagForExternalTime
